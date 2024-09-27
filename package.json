@@ -1,7 +1,7 @@
 {
-  "name": "sbwb-icons",
-  "version": "1.1.1",
-  "description": "Lib testing",
+  "name": "icon-library-template",
+  "version": "1.0.0",
+  "description": "Icon Library template made with TypeScript, Tsup, and SVGR",
   "exports": {
     ".": {
       "types": "./dist/index.d.ts",
