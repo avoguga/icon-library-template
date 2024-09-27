@@ -1,10 +1,8 @@
 import { createRoot } from 'react-dom/client';
-import { FolderOpen } from './icons'; 
+import { Star } from './icons';
 
 const App = () => {
-  return (
-        <FolderOpen size={1000} color='red' />	
-  );
+  return <Star size={1000} color="red" />;
 };
 
 const rootElement = document.getElementById('root');
